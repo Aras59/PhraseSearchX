@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.sun.net.ssl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com.sun.net.ssl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

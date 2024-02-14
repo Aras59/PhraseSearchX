@@ -1,0 +1,3 @@
+public enum Commands {
+    LOGIN,REGISTER,REMIND,LOGOUT,SEARCH,SUCCES,NOSUCCES
+}
