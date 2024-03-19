@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
     <user>
         <login>Aras</login>
         <password>Haslo</password>
@@ -22,5 +23,10 @@
     <user>
         <login>Aras7</login>
         <password>Haslo7</password>
+    </user>
+    <user>
+        <login>LogicAFC</login>
+        <password>Haslo123</password>
+        <createDate>2024-03-19T13:39:49.765160800</createDate>
     </user>
 </users>

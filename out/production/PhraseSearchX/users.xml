@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <login>Aras</login>
+        <password>Haslo</password>
+    </user>
+    <user>
+        <login>Aras1</login>
+        <password>Haslo1</password>
+    </user>
+    <user>
+        <login>Aras3</login>
+        <password>Haslo3</password>
+    </user>
+    <user>
+        <login>Aras5</login>
+        <password>Haslo5</password>
+    </user>
+    <user>
+        <login>Aras6</login>
+        <password>Haslo6</password>
+    </user>
+    <user>
+        <login>Aras7</login>
+        <password>Haslo7</password>
+    </user>
+    <user>
+        <login>LogicAFC</login>
+        <password>Haslo123</password>
+        <createDate>2024-03-19T13:39:49.765160800</createDate>
+    </user>
+</users>
